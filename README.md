@@ -1,4 +1,4 @@
-AI-Powered Business Opportunity Finder
+# AI-Powered Business Opportunity Finder
 
 This project is a Python-based tool that scrapes business listings from SEEK Business and uses AI to recommend opportunities worth investigating.
 
